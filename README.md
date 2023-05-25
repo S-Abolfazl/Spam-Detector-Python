@@ -1,5 +1,5 @@
 # py-project1
-spam SMS detection
+spam SMS detection  ->  Removing spam words from a word file using mathematical rules and probabilities
 
 
 for this project, first give a spam SMS csv file in main direction file.
